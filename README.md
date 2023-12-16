@@ -2,6 +2,8 @@
 
 Cource Project of **“Data Analytics”** (Score: 90)
 
+The course covers the principles and implementation of machine learning models. In the course project, the author observes data and self-learns LSTM models to address specific problems.
+
 ## ① Spatio-temporal Data Preprocessing
   1. Constructed site similarity matrix
   2. Implemented site similarity clustering using K-Medoids to alleviate the influence of sparse matrix
